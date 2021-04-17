@@ -1,2 +1,2 @@
 # pytorch-nlp
-pytorchの
+pytorchの本のコード実行用
